@@ -1,8 +1,8 @@
 *{
     padding: 0;
     margin: 0;
-    touch-action: none;
-    user-select: none;
+    /* touch-action: none;
+    user-select: none; */
 }
 body{
     /* position: relative; */
@@ -128,8 +128,8 @@ main{
     overflow-y: scroll;
     font-size: 1.2rem;
     line-height: 1.6rem;
-    touch-action: none;
-    user-select: none;
+    /* touch-action: none;
+    user-select: none; */
     line-break: auto;
     word-break: break-all;
 }
