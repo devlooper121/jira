@@ -94,7 +94,7 @@ main{
     cursor:auto;
     position: relative;
     padding-bottom:10px ;
-    touch-action: none;
+    /* touch-action: none; */
 
 }
 .ticket-cont:hover{
